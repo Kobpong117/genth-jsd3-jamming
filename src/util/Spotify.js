@@ -1,5 +1,5 @@
 const clientId = '10577519b7fb452780f56b1a0cabf9e2'
-const redirectUri = 'http://localhost:3000/'
+const redirectUri = 'http://notworking-jamming-project.netlify.app'
 let accessToken = undefined
 let expiresIn = undefined
 
